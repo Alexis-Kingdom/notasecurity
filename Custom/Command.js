@@ -23,8 +23,6 @@ class Command {
 
         if(message.content !== this.prefix + this.name) return;
 
-        console.log(this.restrictionControl(message));
-
         if(this.restrictionControl(message) == false) return new this.Error(message, "Vous ne pouvez pas utiliser cette commande.");
 
         callback(message.author, message.content, message.channel);
