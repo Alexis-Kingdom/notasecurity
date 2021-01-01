@@ -1,0 +1,23 @@
+{
+  "name": "notasecurity-lib",
+  "version": "1.0.0",
+  "description": "Soon",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexis-NotAName/notasecurity.git"
+  },
+  "author": "NotAName",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexis-NotAName/notasecurity/issues"
+  },
+  "homepage": "https://github.com/Alexis-NotAName/notasecurity#readme"
+}
