@@ -2,7 +2,8 @@
   "name": "notasecurity-lib",
   "version": "1.0.0",
   "description": "Soon",
-  "main": "index.js",
+  "main": "index",
+  "typings": "index",
   "dependencies": {
     "discord.js": "^12.5.1"
   },
