@@ -1,13 +1,9 @@
 module.exports = {
     
-    Custom = {
         Command: require("./Custom/Command"),
         Embed: require("./Custom/Embed"),
         Response: require("./Custom/Response"),
-    },
+        Error: require("./Native/Error"),
 
-    Native = {
-        Error: require("./Native/Config")
-    }
 
 }

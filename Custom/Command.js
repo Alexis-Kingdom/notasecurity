@@ -5,7 +5,7 @@ class Command {
         this.description = description
         this.name = name
         this.restriction = restriction
-        this.prefix = require("../Config/Global.json").prefix
+        this.prefix = "nas!"
         this.Error = require("../Native/Error.js")
     }
 
