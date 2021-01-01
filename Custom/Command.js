@@ -5,7 +5,7 @@ class Command {
         this.description = description
         this.name = name
         this.restriction = restriction
-        this.prefix = require("../Config/Global.json").prefix
+        this.prefix = "nas!"
         this.Error = require("../Native/Error.js")
     }
 
@@ -22,8 +22,6 @@ class Command {
         if(!message.content.startsWith(this.prefix)) return;
 
         if(message.content !== this.prefix + this.name) return;
-
-        console.log(this.restrictionControl(message));
 
         if(this.restrictionControl(message) == false) return new this.Error(message, "Vous ne pouvez pas utiliser cette commande.");
 
