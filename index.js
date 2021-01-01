@@ -4,4 +4,6 @@ module.exports = {
         Embed: require("./Custom/Embed"),
         Response: require("./Custom/Response"),
         Error: require("./Native/Error"),
+        Help: require("./Native/Help"),
+
 }
