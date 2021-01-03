@@ -1,0 +1,8 @@
+{
+    "title": "Bonjour",
+    "description": "Cette commande permets de dire bonjour",
+    "lang": "fr",
+    "extras": {
+        "response": "Bonjour !"
+    }
+}

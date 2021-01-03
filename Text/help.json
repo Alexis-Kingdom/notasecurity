@@ -1,0 +1,8 @@
+{
+    "title": "Aide",
+    "description": "Cette commande permet de retrouver la liste des autres commandes.",
+    "lang": "fr",
+    "extras": {
+        "title": "Liste des options"
+    }
+}
