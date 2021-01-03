@@ -6,7 +6,7 @@ class Help {
 
     execute(message, callback) {
 
-        let content;
+        let content = "";
 
         this.commands.forEach(cmd => {
             content += `**nas!${cmd.name}** : ${cmd.description} \n`

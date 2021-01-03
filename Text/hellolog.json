@@ -1,0 +1,8 @@
+{
+    "title": "Hello World Logs",
+    "description": "Commande permettant de consulter les logs de la commande nas!hello",
+    "lang": "fr",
+    "extras": {
+        "message": "Merci de consulter la console Javascript !"
+    }
+}

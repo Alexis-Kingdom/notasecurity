@@ -5,7 +5,11 @@
   "main": "index",
   "typings": "index",
   "dependencies": {
-    "discord.js": "^12.5.1"
+    "discord.js": "^12.5.1",
+    "encoding-down": "^6.3.0",
+    "lowdb": "^1.0.0",
+    "translatte": "^3.0.0",
+    "uniqid": "^5.2.0"
   },
   "devDependencies": {},
   "scripts": {

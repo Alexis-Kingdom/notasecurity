@@ -1,0 +1,11 @@
+{
+    "title": "Quiz",
+    "description": "Pour démarrer le quiz",
+    "lang": "fr",
+    "extras": {
+        "question1": "Quelle est la capitale de la France ?",
+        "question2": "Quelle est la capitale du Luxembourg ?",
+        "question3": "Quelle est la capitale des États-Unis ?",
+        "responseSuccess": "Vos réponses sont: "
+    }
+}

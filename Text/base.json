@@ -1,0 +1,6 @@
+{
+    "lang": "fr",
+    "cmdLogRestrict": "Tentative d'utilisation de la commande ",
+    "cmdRestrictMessage": "Vous ne pouvez pas utiliser cette commande.",
+    "cmdLogUse": "Utilisation de la commande "
+}
